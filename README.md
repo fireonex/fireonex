@@ -1,18 +1,14 @@
-# Greetings!
+# 𝙂𝙧𝙚𝙚𝙩𝙞𝙣𝙜𝙨!
 
-My name is **𝕶𝖆𝖙𝖍𝖆𝖊𝖗𝖊𝖑 𝕱𝖎𝖗𝖊𝖔𝖓𝖊𝖝**
+## 𝙈𝙮 𝙣𝙖𝙢𝙚 𝙞𝙨 **♡ 𝕶𝖆𝖙𝖍𝖆𝖊𝖗𝖊𝖑 𝕱𝖎𝖗𝖊𝖔𝖓𝖊𝖝 ♡**
 
-<div align="center">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fopenart.ai%2Fdiscovery%2Fsd-1006708268523065444&psig=AOvVaw3SVTAwk5QLjQMe3hs_TE90&ust=1729098778038000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJD7rYvxkIkDFQAAAAAdAAAAABAE" width="60%"/>
-</div>
-
-💻 **𝙁𝙧𝙤𝙣𝙩𝙚𝙣𝙙 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧**, 𝙞𝙣𝙨𝙥𝙞𝙧𝙚𝙙 𝙗𝙮 𝙖𝙧𝙩 𝙤𝙛 𝙥𝙧𝙤𝙜𝙧𝙖𝙢𝙢𝙞𝙣𝙜.
+### 💻 **𝙁𝙧𝙤𝙣𝙩𝙚𝙣𝙙 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧**, 𝙞𝙣𝙨𝙥𝙞𝙧𝙚𝙙 𝙗𝙮 𝙖𝙧𝙩 𝙤𝙛 𝙥𝙧𝙤𝙜𝙧𝙖𝙢𝙢𝙞𝙣𝙜.
 <div align="center">
     <img src="https://www.codewars.com//users/Maria%20Krulikovskaya/badges/large"
          title="My Codewars" alt="Codewars" width="60%"/>
 </div>
 
-### 𝙈𝙮 𝙡𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨 𝙖𝙣𝙙 𝙩𝙤𝙤𝙡𝙨
+### ♡ 𝙈𝙮 𝙡𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨 𝙖𝙣𝙙 𝙩𝙤𝙤𝙡𝙨 ♡
 <div align="center">
     <a href="https://nextjs.org" target="_blank">
         <img src="https://img.shields.io/badge/Next.js-011805?style=flat&logo=next.js&logoSize=auto"
@@ -34,7 +30,7 @@ My name is **𝕶𝖆𝖙𝖍𝖆𝖊𝖗𝖊𝖑 𝕱𝖎𝖗𝖊𝖔𝖓𝖊�
              title="styled-components" alt="styled-components" height="27"/></a>&nbsp;
 </div>
 
-## The World of My Programming
+## ♡ 𝙏𝙝𝙚 𝙒𝙤𝙧𝙡𝙙 𝙤𝙛 𝙈𝙮 𝙋𝙧𝙤𝙜𝙧𝙖𝙢𝙢𝙞𝙣𝙜 ♡
 
 Here I strive to use **the magical spells of code** creating beautiful interfaces, caring for users, and continuously improving my craft.
 
