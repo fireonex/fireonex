@@ -1,4 +1,4 @@
-[![Header](https://github.com/fireonex/fireonex/blob/main/assets/git.png)]()
+[![Header](https://github.com/fireonex/fireonex/blob/main/git.png)]()
 
 # 𝙂𝙧𝙚𝙚𝙩𝙞𝙣𝙜𝙨!
 
