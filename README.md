@@ -7,5 +7,5 @@
 
 <div>
         <img src="https://img.freepik.com/free-vector/workplace-culture-abstract-concept-vector-illustration-shared-values-belief-systems-attitude-work-company-team-corporate-culture-high-performance-employee-health-abstract-metaphor_335657-6126.jpg?ga=GA1.1.208176612.1728310344&semt=ais_hybrid"
-             title="" alt=""/>
+             title="" alt="" height="300"/>
 </div>
