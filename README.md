@@ -20,7 +20,7 @@
 
 #### We are **Byte Creators**, a team of developers dedicated to creating cutting-edge web applications:
 
-<div align="center">
+<div>
         <a href="https://github.com/fireonex" target="_blank">
                  <p>Fireonex</p>
        </a>
