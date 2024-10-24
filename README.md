@@ -21,24 +21,23 @@
 #### We are **Byte Creators**, a team of developers dedicated to creating cutting-edge web applications:
 
 <div align="center">
-    <span>
-        <a href="https://github.com/fireonex" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/5338/5338322.png"
-             title="" alt="" height="50"/>Fireonex</a>&nbsp;
+    <span style="display: inline-block; padding: 10px; border: 2px solid white;">
+        <a href="https://github.com/fireonex" target="_blank" style="text-decoration: none; color: inherit;">
+            <img src="https://cdn-icons-png.flaticon.com/128/5338/5338322.png" title="Fireonex" alt="Fireonex Icon" height="50" style="vertical-align: middle;"/>
+            <span style="vertical-align: middle; padding-left: 10px; color: white;">Fireonex</span>
+        </a>
     </span>
-    <span>
-        <a href="https://github.com/fireonex" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/5338/5338322.png"
-             title="" alt="" height="50"/>Fireonex</a>&nbsp;
+    <span style="display: inline-block; padding: 10px; border: 2px solid white;">
+        <a href="https://github.com/fireonex" target="_blank" style="text-decoration: none; color: inherit;">
+            <img src="https://cdn-icons-png.flaticon.com/128/5338/5338322.png" title="Fireonex" alt="Fireonex Icon" height="50" style="vertical-align: middle;"/>
+            <span style="vertical-align: middle; padding-left: 10px; color: white;">Fireonex</span>
+        </a>
     </span>
-    <span>
-        <a href="https://github.com/fireonex" target="_blank">Fireonex</a>&nbsp;
-    </span>
-    <span>
-        <a href="https://github.com/fireonex" target="_blank">Fireonex</a>&nbsp;
-    </span>
-    <span>
-        <a href="https://github.com/fireonex" target="_blank">Fireonex</a>&nbsp;
-    </span>
-    <span>
-        <a href="https://github.com/fireonex" target="_blank">Fireonex</a>&nbsp;
+        <span style="display: inline-block; padding: 10px; border: 2px solid white;">
+        <a href="https://github.com/fireonex" target="_blank" style="text-decoration: none; color: inherit;">
+            <img src="https://cdn-icons-png.flaticon.com/128/5338/5338322.png" title="Fireonex" alt="Fireonex Icon" height="50" style="vertical-align: middle;"/>
+            <span style="vertical-align: middle; padding-left: 10px; color: white;">Fireonex</span>
+        </a>
     </span>
 </div>
+
