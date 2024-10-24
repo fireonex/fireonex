@@ -20,26 +20,26 @@
 
 #### We are **Byte Creators**, a team of developers dedicated to creating cutting-edge web applications:
 
-<div>
+<div align="center">
         <a href="https://github.com/fireonex" target="_blank">
                  <p>Fireonex</p>
-       </a>
+       </a>&nbsp
        <a href="https://github.com/fireonex" target="_blank">
                  <p>Fireonex</p>
-       </a>
+       </a>&nbsp
        <a href="https://github.com/fireonex" target="_blank">
                  <p>Fireonex</p>
-       </a>
+       </a>&nbsp
        <a href="https://github.com/fireonex" target="_blank">
                  <p>Fireonex</p>
-       </a>
+       </a>&nbsp
        <a href="https://github.com/fireonex" target="_blank">
                  <p>Fireonex</p>
-       </a>
+       </a>&nbsp
        <a href="https://github.com/fireonex" target="_blank">
                  <p>Fireonex</p>
-       </a>
+       </a>&nbsp
        <a href="https://github.com/fireonex" target="_blank">
                  <p>Fireonex</p>
-       </a>
+       </a>&nbsp
 </div>
