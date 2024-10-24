@@ -22,10 +22,12 @@
 
 <div align="center">
     <span>
-        <a href="https://github.com/fireonex" target="_blank">Fireonex</a>&nbsp;
+        <a href="https://github.com/fireonex" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/1688/1688502.png"
+             title="" alt="" height="50"/>Fireonex</a>&nbsp;
     </span>
     <span>
-        <a href="https://github.com/fireonex" target="_blank">Fireonex</a>&nbsp;
+        <a href="https://github.com/fireonex" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/1688/1688502.png"
+             title="" alt="" height="50"/>Fireonex</a>&nbsp;
     </span>
     <span>
         <a href="https://github.com/fireonex" target="_blank">Fireonex</a>&nbsp;
