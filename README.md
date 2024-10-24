@@ -74,32 +74,44 @@
 <table border="2" cellpadding="10" cellspacing="0">
   <tr>
      <td align="center">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgJevnE01WcfB_L0O-kAUif0SAqLuN1rlrfw&s" alt="Icon" height="50"/>
+         <a href="https://tailwindcss.com/">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgJevnE01WcfB_L0O-kAUif0SAqLuN1rlrfw&s" alt="Icon" height="50"/>
+         </a>
         <br/>
         <span>Tailwind css</span>
     </td>
           <td align="center">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9W1xTscEcGKYWa8Ksx4eU7mOh-Tyk-uRVvw&s" alt="Icon" height="50"/>
+                  <a href="https://react.dev/">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9W1xTscEcGKYWa8Ksx4eU7mOh-Tyk-uRVvw&s" alt="Icon" height="50"/>
+         </a>
         <br/>
         <span>React</span>
     </td>
           <td align="center">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj13DpXfc1_RayzN0ecY0-p_ws7TK3sxpO6w&s" alt="Icon" height="50"/>
+                  <a href="https://nextjs.org/">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj13DpXfc1_RayzN0ecY0-p_ws7TK3sxpO6w&s" alt="Icon" height="50"/>
+         </a>
         <br/>
         <span>Next js</span>
     </td>
           <td align="center">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhmDtsYdvG33r593WvTsrbj7W9DLtUxIe5ug&s" alt="Icon" height="50"/>
+                  <a href="https://redux-toolkit.js.org/rtk-query/overview">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhmDtsYdvG33r593WvTsrbj7W9DLtUxIe5ug&s" alt="Icon" height="50"/>
+         </a>
         <br/>
         <span>RTK Query</span>
     </td>
           <td align="center">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6ZftARRCrAE8y0M8egNhkMPTV0Zf62S0Epg&s" alt="Icon" height="50"/>
+                  <a href="https://www.react-hook-form.com/">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6ZftARRCrAE8y0M8egNhkMPTV0Zf62S0Epg&s" alt="Icon" height="50"/>
+         </a>
         <br/>
         <span>React hook form</span>
     </td>
           <td align="center">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL38u-0VeY-nhi5S2x5ZwfpWvDKbwmCHMM8w&s" alt="Icon" height="50"/>
+                  <a href="https://www.typescriptlang.org/">
+             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL38u-0VeY-nhi5S2x5ZwfpWvDKbwmCHMM8w&s" alt="Icon" height="50"/>             
+         </a>
         <br/>
         <span>Typescript</span>
     </td>
