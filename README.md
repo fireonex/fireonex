@@ -20,23 +20,23 @@
 
 #### We are **Byte Creators**, a team of developers dedicated to creating cutting-edge web applications:
 
-<table align="center">
+<table align="center" border="2" cellpadding="10" cellspacing="0">
   <tr>
-    <td align="center" style="border: 2px solid white; padding: 10px; background-color: white;">
+    <td align="center" bgcolor="#FFFFFF">
       <a href="https://github.com/fireonex" target="_blank" style="text-decoration: none;">
         <img src="https://cdn-icons-png.flaticon.com/128/5338/5338322.png" title="Fireonex" alt="Fireonex Icon" height="50"/>
         <br/>
         <span style="color: black;">Fireonex</span>
       </a>
     </td>
-    <td align="center" style="border: 2px solid white; padding: 10px; background-color: white;">
+    <td align="center" bgcolor="#FFFFFF">
       <a href="https://github.com/fireonex" target="_blank" style="text-decoration: none;">
         <img src="https://cdn-icons-png.flaticon.com/128/5338/5338322.png" title="Fireonex" alt="Fireonex Icon" height="50"/>
         <br/>
         <span style="color: black;">Fireonex</span>
       </a>
     </td>
-    <td align="center" style="border: 2px solid white; padding: 10px; background-color: white;">
+    <td align="center" bgcolor="#FFFFFF">
       <a href="https://github.com/fireonex" target="_blank" style="text-decoration: none;">
         <img src="https://cdn-icons-png.flaticon.com/128/5338/5338322.png" title="Fireonex" alt="Fireonex Icon" height="50"/>
         <br/>
@@ -45,6 +45,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
