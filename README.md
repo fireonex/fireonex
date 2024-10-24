@@ -20,24 +20,30 @@
 
 #### We are **Byte Creators**, a team of developers dedicated to creating cutting-edge web applications:
 
-<div align="center">
-    <span style="display: inline-block; padding: 10px; border: 2px solid white;">
-        <a href="https://github.com/fireonex" target="_blank" style="text-decoration: none; color: inherit;">
-            <img src="https://cdn-icons-png.flaticon.com/128/5338/5338322.png" title="Fireonex" alt="Fireonex Icon" height="50" style="vertical-align: middle;"/>
-            <span style="vertical-align: middle; padding-left: 10px; color: white;">Fireonex</span>
-        </a>
-    </span>
-    <span style="display: inline-block; padding: 10px; border: 2px solid white;">
-        <a href="https://github.com/fireonex" target="_blank" style="text-decoration: none; color: inherit;">
-            <img src="https://cdn-icons-png.flaticon.com/128/5338/5338322.png" title="Fireonex" alt="Fireonex Icon" height="50" style="vertical-align: middle;"/>
-            <span style="vertical-align: middle; padding-left: 10px; color: white;">Fireonex</span>
-        </a>
-    </span>
-        <span style="display: inline-block; padding: 10px; border: 2px solid white;">
-        <a href="https://github.com/fireonex" target="_blank" style="text-decoration: none; color: inherit;">
-            <img src="https://cdn-icons-png.flaticon.com/128/5338/5338322.png" title="Fireonex" alt="Fireonex Icon" height="50" style="vertical-align: middle;"/>
-            <span style="vertical-align: middle; padding-left: 10px; color: white;">Fireonex</span>
-        </a>
-    </span>
-</div>
+<table align="center">
+  <tr>
+    <td align="center" style="border: 2px solid white; padding: 10px;">
+      <a href="https://github.com/fireonex" target="_blank" style="text-decoration: none;">
+        <img src="https://cdn-icons-png.flaticon.com/128/5338/5338322.png" title="Fireonex" alt="Fireonex Icon" height="50"/>
+        <br/>
+        <span style="color: white;">Fireonex</span>
+      </a>
+    </td>
+    <td align="center" style="border: 2px solid white; padding: 10px;">
+      <a href="https://github.com/fireonex" target="_blank" style="text-decoration: none;">
+        <img src="https://cdn-icons-png.flaticon.com/128/5338/5338322.png" title="Fireonex" alt="Fireonex Icon" height="50"/>
+        <br/>
+        <span style="color: white;">Fireonex</span>
+      </a>
+    </td>
+    <td align="center" style="border: 2px solid white; padding: 10px;">
+      <a href="https://github.com/fireonex" target="_blank" style="text-decoration: none;">
+        <img src="https://cdn-icons-png.flaticon.com/128/5338/5338322.png" title="Fireonex" alt="Fireonex Icon" height="50"/>
+        <br/>
+        <span style="color: white;">Fireonex</span>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
