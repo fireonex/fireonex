@@ -83,5 +83,25 @@
         <br/>
         <span>React</span>
     </td>
+          <td align="center">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj13DpXfc1_RayzN0ecY0-p_ws7TK3sxpO6w&s" alt="Icon" height="50"/>
+        <br/>
+        <span>Next js</span>
+    </td>
+          <td align="center">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhmDtsYdvG33r593WvTsrbj7W9DLtUxIe5ug&s" alt="Icon" height="50"/>
+        <br/>
+        <span>RTK Query</span>
+    </td>
+          <td align="center">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6ZftARRCrAE8y0M8egNhkMPTV0Zf62S0Epg&s" alt="Icon" height="50"/>
+        <br/>
+        <span>React hook form</span>
+    </td>
+          <td align="center">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL38u-0VeY-nhi5S2x5ZwfpWvDKbwmCHMM8w&s" alt="Icon" height="50"/>
+        <br/>
+        <span>Typescript</span>
+    </td>
   </tr>
 </table>
