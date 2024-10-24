@@ -21,30 +21,22 @@
 #### We are **Byte Creators**, a team of developers dedicated to creating cutting-edge web applications:
 
 <div align="center">
-        <span>
-               <a href="https://github.com/fireonex" target="_blank">
-                 <p>Fireonex</p>
-       </a>&nbsp  
-        </span>
-       <span>
-               <a href="https://github.com/fireonex" target="_blank">
-                 <p>Fireonex</p>
-       </a>&nbsp  
-        </span><span>
-               <a href="https://github.com/fireonex" target="_blank">
-                 <p>Fireonex</p>
-       </a>&nbsp  
-        </span><span>
-               <a href="https://github.com/fireonex" target="_blank">
-                 <p>Fireonex</p>
-       </a>&nbsp  
-        </span><span>
-               <a href="https://github.com/fireonex" target="_blank">
-                 <p>Fireonex</p>
-       </a>&nbsp  
-        </span><span>
-               <a href="https://github.com/fireonex" target="_blank">
-                 <p>Fireonex</p>
-       </a>&nbsp  
-        </span>
+    <span>
+        <a href="https://github.com/fireonex" target="_blank">Fireonex</a>&nbsp;
+    </span>
+    <span>
+        <a href="https://github.com/fireonex" target="_blank">Fireonex</a>&nbsp;
+    </span>
+    <span>
+        <a href="https://github.com/fireonex" target="_blank">Fireonex</a>&nbsp;
+    </span>
+    <span>
+        <a href="https://github.com/fireonex" target="_blank">Fireonex</a>&nbsp;
+    </span>
+    <span>
+        <a href="https://github.com/fireonex" target="_blank">Fireonex</a>&nbsp;
+    </span>
+    <span>
+        <a href="https://github.com/fireonex" target="_blank">Fireonex</a>&nbsp;
+    </span>
 </div>
