@@ -79,7 +79,7 @@
         <span>Tailwind css</span>
     </td>
           <td align="center">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrHV6dGBNSKqnGeplyzHEpRTw7aLOelr8qGw&s" alt="Icon" height="50"/>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9W1xTscEcGKYWa8Ksx4eU7mOh-Tyk-uRVvw&s" alt="Icon" height="50"/>
         <br/>
         <span>React</span>
     </td>
