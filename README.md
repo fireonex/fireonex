@@ -22,28 +22,29 @@
 
 <table align="center">
   <tr>
-    <td align="center" style="border: 2px solid white; padding: 10px;">
+    <td align="center" style="border: 2px solid white; padding: 10px; background-color: white;">
       <a href="https://github.com/fireonex" target="_blank" style="text-decoration: none;">
         <img src="https://cdn-icons-png.flaticon.com/128/5338/5338322.png" title="Fireonex" alt="Fireonex Icon" height="50"/>
         <br/>
-        <span style="color: white;">Fireonex</span>
+        <span style="color: black;">Fireonex</span>
       </a>
     </td>
-    <td align="center" style="border: 2px solid white; padding: 10px;">
+    <td align="center" style="border: 2px solid white; padding: 10px; background-color: white;">
       <a href="https://github.com/fireonex" target="_blank" style="text-decoration: none;">
         <img src="https://cdn-icons-png.flaticon.com/128/5338/5338322.png" title="Fireonex" alt="Fireonex Icon" height="50"/>
         <br/>
-        <span style="color: white;">Fireonex</span>
+        <span style="color: black;">Fireonex</span>
       </a>
     </td>
-    <td align="center" style="border: 2px solid white; padding: 10px;">
+    <td align="center" style="border: 2px solid white; padding: 10px; background-color: white;">
       <a href="https://github.com/fireonex" target="_blank" style="text-decoration: none;">
         <img src="https://cdn-icons-png.flaticon.com/128/5338/5338322.png" title="Fireonex" alt="Fireonex Icon" height="50"/>
         <br/>
-        <span style="color: white;">Fireonex</span>
+        <span style="color: black;">Fireonex</span>
       </a>
     </td>
   </tr>
 </table>
+
 
 
