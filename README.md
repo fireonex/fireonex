@@ -22,25 +22,47 @@
 
 <table align="center" border="2" cellpadding="10" cellspacing="0">
   <tr>
-    <td align="center" bgcolor="#FFFFFF">
-      <a href="https://github.com/fireonex" target="_blank" style="text-decoration: none;">
-        <img src="https://cdn-icons-png.flaticon.com/128/5338/5338322.png" title="Fireonex" alt="Fireonex Icon" height="50"/>
+     <td align="center">
+      <a href="https://github.com/tapuru" target="_blank" style="text-decoration: none;">
+        <img src="https://cdn-icons-png.flaticon.com/128/1470/1470915.png" title="tapuru" alt="Icon" height="50"/>
         <br/>
-        <span style="color: black;">Fireonex</span>
+        <span>Team lead</span>
+        <span>tapuru</span>
       </a>
     </td>
-    <td align="center" bgcolor="#FFFFFF">
+    <td align="center">
       <a href="https://github.com/fireonex" target="_blank" style="text-decoration: none;">
-        <img src="https://cdn-icons-png.flaticon.com/128/5338/5338322.png" title="Fireonex" alt="Fireonex Icon" height="50"/>
+        <img src="https://cdn-icons-png.flaticon.com/128/5338/5338322.png" title="fireonex" alt="Icon" height="50"/>
         <br/>
-        <span style="color: black;">Fireonex</span>
+        <span>fireonex</span>
       </a>
     </td>
-    <td align="center" bgcolor="#FFFFFF">
-      <a href="https://github.com/fireonex" target="_blank" style="text-decoration: none;">
-        <img src="https://cdn-icons-png.flaticon.com/128/5338/5338322.png" title="Fireonex" alt="Fireonex Icon" height="50"/>
+          <td align="center">
+      <a href="https://github.com/FtShow" target="_blank" style="text-decoration: none;">
+        <img src="https://cdn-icons-png.flaticon.com/128/5338/5338322.png" title="Dmitriy" alt="Icon" height="50"/>
         <br/>
-        <span style="color: black;">Fireonex</span>
+        <span>Dmitriy</span>
+      </a>
+    </td>
+          <td align="center">
+      <a href="https://github.com/DePacos" target="_blank" style="text-decoration: none;">
+        <img src="https://cdn-icons-png.flaticon.com/128/5338/5338322.png" title="DePacos" alt="Icon" height="50"/>
+        <br/>
+        <span>DePacos</span>
+      </a>
+    </td>
+          <td align="center">
+      <a href="https://github.com/JulyBO7" target="_blank" style="text-decoration: none;">
+        <img src="https://cdn-icons-png.flaticon.com/128/5338/5338322.png" title="Julie" alt="Icon" height="50"/>
+        <br/>
+        <span>Julie</span>
+      </a>
+    </td>
+          <td align="center">
+      <a href="https://github.com/DmitryChues" target="_blank" style="text-decoration: none;">
+        <img src="https://cdn-icons-png.flaticon.com/128/5338/5338322.png" title="Julie" alt="Icon" height="50"/>
+        <br/>
+        <span>DmitryChues</span>
       </a>
     </td>
   </tr>
