@@ -14,7 +14,7 @@
 
 ## Our team
 <div>
-    <img src="https://img.freepik.com/free-vector/e-sport-team-abstract-concept-vector-illustration-group-e-sport-gamers-pro-team-online-sport-league-gaming-championship-internet-browser-playing-together-collaboration-abstract-metaphor_335657-2254.jpg?ga=GA1.1.208176612.1728310344&semt=ais_hybrid"
+    <img src="https://img.freepik.com/free-vector/stem-camp-teens-background-with-programming-study-symbols-flat-vector-illustration_1284-77823.jpg?ga=GA1.1.208176612.1728310344&semt=ais_hybrid"
              title="" alt="" height="300"/>
 </div>
 
