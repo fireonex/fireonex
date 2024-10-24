@@ -68,7 +68,7 @@
   </tr>
 </table>
 
-<div height="30"></div>
+<img height="30"></div>
 
 
 ## Technologies we use:
