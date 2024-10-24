@@ -20,13 +20,13 @@
 
 #### We are **Byte Creators**, a team of developers dedicated to creating cutting-edge web applications:
 
-<table align="center" border="2" cellpadding="10" cellspacing="0">
+<table border="2" cellpadding="10" cellspacing="0">
   <tr>
      <td align="center">
       <a href="https://github.com/tapuru" target="_blank" style="text-decoration: none;">
         <img src="https://cdn-icons-png.flaticon.com/128/1470/1470915.png" title="tapuru" alt="Icon" height="50"/>
         <br/>
-        <span>Team lead</span>
+        <span>Team lead: </span>
         <span>tapuru</span>
       </a>
     </td>
