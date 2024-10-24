@@ -1,4 +1,6 @@
-[![Header](https://github.com/fireonex/fireonex/blob/main/inct.png)]()
+<div width="100%">
+    [![Header](https://github.com/fireonex/fireonex/blob/main/inct.png)]()    
+</div>
 
 # INCTAGRAM
 ## Social network from the Byte Creators development team
