@@ -12,6 +12,8 @@
              title="" alt="" height="300"/>
 </div>
 
+<img height="30"></div>
+
 ## Our team
 <div>
     <img src="https://img.freepik.com/free-vector/stem-camp-teens-background-with-programming-study-symbols-flat-vector-illustration_1284-77823.jpg?ga=GA1.1.208176612.1728310344&semt=ais_hybrid"
