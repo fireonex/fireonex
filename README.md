@@ -1,81 +1,22 @@
-# INCTAGRAM ADMIN     
-<a href="https://admin.inctbc.ru">
-    admin.inctbc.ru
-</a>
+[![Header](https://github.com/fireonex/fireonex/blob/main/git2.png)]()
 
-## Welcome to the Inctagram Admin repository, the pinnacle of technical mastery and managerial elegance!
+# 𝙂𝙧𝙚𝙚𝙩𝙞𝙣𝙜𝙨!
 
-### Inctagram Admin is the core of administrative management for the next generation of social platforms. It provides administrators with a powerful arsenal of tools, enabling them to control, moderate, and optimize user experience with unprecedented precision and efficiency. This is not just a control panel — it is a command bridge, delivering strategic guidance in the realm of content and interaction.
+## 𝙈𝙮 𝙣𝙖𝙢𝙚 𝙞𝙨 **♡ 𝕶𝖆𝖙𝖍𝖆𝖊𝖗𝖊𝖑 𝕱𝖎𝖗𝖊𝖔𝖓𝖊𝖝 ♡**
 
-The functional capabilities of Inctagram Admin raise the industry standard by combining:
-
-- An intuitive interface — every interface element is designed for maximum productivity and minimal learning curve.
-
-- Dynamic analytics dashboards — gain insights and instant reports for informed decision-making.
-
-- Unparalleled security — user data protection elevated to the highest degree.
-
-### Created with meticulous attention to detail, this solution embodies the highest quality standards, aimed at stability, scalability, and ease of maintenance. Inctagram Admin is your gateway to limitless possibilities for managing digital ecosystems.
-
-### This tool was crafted by the unmatched team of Byte-Creators — pioneers of digital innovation and masters of software solutions.
-
-<div>
-        <img src="https://github.com/BiteCreators/admin/blob/development/public/activity-chart.png"
-             title="" alt="" height="300"/>
-        <img src="https://github.com/BiteCreators/admin/blob/development/public/technologies-used.png"
-             title="" alt="" height="300"/>
+### 💻 **𝙁𝙧𝙤𝙣𝙩𝙚𝙣𝙙 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧**, 𝙞𝙣𝙨𝙥𝙞𝙧𝙚𝙙 𝙗𝙮 𝙖𝙧𝙩 𝙤𝙛 𝙥𝙧𝙤𝙜𝙧𝙖𝙢𝙢𝙞𝙣𝙜.
+<div align="center">
+    <img src="https://www.codewars.com//users/Fireonex/badges/large"
+         title="My Codewars" alt="Codewars" width="60%"/>
 </div>
 
-<img height="30"></div>
+## ♡ 𝙏𝙝𝙚 𝙒𝙤𝙧𝙡𝙙 𝙤𝙛 𝙈𝙮 𝙋𝙧𝙤𝙜𝙧𝙖𝙢𝙢𝙞𝙣𝙜 ♡
 
-### Byte-Creators: building today to inspire tomorrow.
+Here I strive to use **the magical spells of code** creating beautiful interfaces, caring for users, and continuously improving my craft.
 
-<table border="2" cellpadding="10" cellspacing="0">
-  <tr>
-     <td align="center">
-      <a href="https://github.com/tapuru" target="_blank" style="text-decoration: none;">
-        <img src="https://cdn-icons-png.flaticon.com/128/1470/1470915.png" title="tapuru" alt="Icon" height="50"/>
-        <br/>
-        <span>Team lead: </span>
-        <span>tapuru</span>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/fireonex" target="_blank" style="text-decoration: none;">
-        <img src="https://cdn-icons-png.flaticon.com/128/5338/5338322.png" title="fireonex" alt="Icon" height="50"/>
-        <br/>
-        <span>fireonex</span>
-      </a>
-    </td>
-          <td align="center">
-      <a href="https://github.com/FtShow" target="_blank" style="text-decoration: none;">
-        <img src="https://cdn-icons-png.flaticon.com/128/5338/5338322.png" title="Dmitriy" alt="Icon" height="50"/>
-        <br/>
-        <span>Dmitriy</span>
-      </a>
-    </td>
-          <td align="center">
-      <a href="https://github.com/DePacos" target="_blank" style="text-decoration: none;">
-        <img src="https://cdn-icons-png.flaticon.com/128/5338/5338322.png" title="DePacos" alt="Icon" height="50"/>
-        <br/>
-        <span>DePacos</span>
-      </a>
-    </td>
-          <td align="center">
-      <a href="https://github.com/JulyBO7" target="_blank" style="text-decoration: none;">
-        <img src="https://cdn-icons-png.flaticon.com/128/5338/5338322.png" title="Julie" alt="Icon" height="50"/>
-        <br/>
-        <span>Julie</span>
-      </a>
-    </td>
-          <td align="center">
-      <a href="https://github.com/DmitryChues" target="_blank" style="text-decoration: none;">
-        <img src="https://cdn-icons-png.flaticon.com/128/5338/5338322.png" title="DmitryChues" alt="Icon" height="50"/>
-        <br/>
-        <span>DmitryChues</span>
-      </a>
-    </td>
-  </tr>
-</table>
+> "𝐵𝑒𝒾𝓃𝑔 𝒶 𝒹𝑒𝓋𝑒𝓁𝑜𝓅𝑒𝓇 𝒾𝓈 𝒶𝓃 𝒶𝒹𝓋𝑒𝓃𝓉𝓊𝓇𝑒 𝓌𝒽𝑒𝓇𝑒 𝑒𝓋𝑒𝓇𝓎 𝒷𝓊𝑔 𝒶𝓃𝒹 𝓃𝑒𝓌 𝒻𝑒𝒶𝓉𝓊𝓇𝑒 𝒾𝓈 𝒶 𝒹𝓊𝑒𝓁 𝒸𝒽𝒶𝓁𝓁𝑒𝓃𝑔𝑒!" — Kathaerel Fireonex, Lady of Code 
 
+---
+
+Dive into my **magical world of development** with me! 🕯️🕊🏰
 
