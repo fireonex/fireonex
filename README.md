@@ -9,24 +9,24 @@
 </div>
 
 ### 𝙈𝙮 𝙡𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨 𝙖𝙣𝙙 𝙩𝙤𝙤𝙡𝙨
-<div align="center">
+<div style="background-color: #f0f0f0; padding: 10;">
     <a href="https://nextjs.org" target="_blank">
         <img src="https://img.icons8.com/?size=100&id=yUdJlcKanVbh&format=png&color=000000"
-             title="Next.js" alt="Next.js" height="27"/></a>&nbsp;
+             title="Next.js" alt="Next.js" height="50"/></a>&nbsp;
     <a href="https://react.dev" target="_blank">
         <img src="https://img.icons8.com/?size=100&id=NfbyHexzVEDk&format=png&color=000000"
-             title="React" alt="React" height="27"/></a>&nbsp;
+             title="React" alt="React" height="50"/></a>&nbsp;
     <a href="https://redux-toolkit.js.org" target="_blank">
         <img src="https://img.icons8.com/?size=100&id=A6r5yddU9uA0&format=png&color=000000"
-             title="Redux Toolkit + RTK Query" alt="Redux Toolkit + RTK Query" height="27"/></a>&nbsp;
+             title="Redux Toolkit + RTK Query" alt="Redux Toolkit + RTK Query" height="50"/></a>&nbsp;
     <a href="https://www.typescriptlang.org" target="_blank">
         <img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000"
-             title="TypeScript" alt="TypeScript" height="27"/></a>&nbsp;
+             title="TypeScript" alt="TypeScript" height="50"/></a>&nbsp;
     <a href="https://developer.mozilla.org" target="_blank">
         <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000"
-             title="JavaScript" alt="JavaScript" height="27"/></a>&nbsp;
+             title="JavaScript" alt="JavaScript" height="50"/></a>&nbsp;
     <a href="https://tailwindcss.com" target="_blank">
         <img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000"
-             title="Tailwind CSS" alt="tailwind" height="27"/></a>&nbsp;
+             title="Tailwind CSS" alt="tailwind" height="50"/></a>&nbsp;
 </div>
 
