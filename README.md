@@ -3,7 +3,7 @@
 ## 𝙈𝙮 𝙣𝙖𝙢𝙚 𝙞𝙨 **Maria Krulikovskaya**
 
 ### 💻 **𝙁𝙧𝙤𝙣𝙩𝙚𝙣𝙙 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧**, 𝙞𝙣𝙨𝙥𝙞𝙧𝙚𝙙 𝙗𝙮 𝙖𝙧𝙩 𝙤𝙛 𝙥𝙧𝙤𝙜𝙧𝙖𝙢𝙢𝙞𝙣𝙜.
-<div align="center">
+<div>
     <img src="https://www.codewars.com//users/Fireonex/badges/large"
          title="My Codewars" alt="Codewars" width="60%"/>
 </div>
