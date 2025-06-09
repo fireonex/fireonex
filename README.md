@@ -4,8 +4,12 @@
 
 ### 💻 **𝙁𝙧𝙤𝙣𝙩𝙚𝙣𝙙 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧**, 𝙞𝙣𝙨𝙥𝙞𝙧𝙚𝙙 𝙗𝙮 𝙖𝙧𝙩 𝙤𝙛 𝙥𝙧𝙤𝙜𝙧𝙖𝙢𝙢𝙞𝙣𝙜.
 <div>
-    <img src="https://www.codewars.com//users/Fireonex/badges/large"
-         title="My Codewars" alt="Codewars" width="60%"/>
+    <a href="https://www.codewars.com/users/Fireonex" target="_blank" rel="noopener noreferrer">
+      <img src="https://www.codewars.com/users/Fireonex/badges/large"
+       title="My Codewars"
+       alt="Codewars"
+       width="60%" />
+    </a>
 </div>
 
 ### 𝙈𝙮 𝙡𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨 𝙖𝙣𝙙 𝙩𝙤𝙤𝙡𝙨
